@@ -10,7 +10,7 @@ A professional, responsive task management dashboard built with React, Vite, Tai
 TaskFlow helps users plan work, manage priorities, track task completion, and preserve tasks across browser sessions without requiring a backend or user account.
 
 > **Live Demo:** Add your GitHub Pages link here after deployment  
-> `http://localhost:5173/`
+> `https://aaryani-task-tracker.netlify.app/`
 
 ## Preview
 
